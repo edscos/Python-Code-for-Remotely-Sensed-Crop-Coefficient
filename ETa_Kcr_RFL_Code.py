@@ -24,9 +24,8 @@
 # Development of reflectance-based crop coefficients for corn.
 # Transactions of the ASAE, 32(6), 1891-1900.
 
-# Trout, T. J., Johnson, L. F., & Gartung, J. (2008).
-# Remote sensing of canopy cover in horticultural crops.
-# HortScience, 43(2), 333-337.
+# Trout, T. J., & DeJonge, K. C. (2018). Crop water use and crop coefficients 
+# of maize in the great plains. Journal of Irrigation and Drainage Engineering, 144(6), 04018009.
 
 # Defining Constant Variables Regarding the Date of the Image
 
