@@ -1,6 +1,10 @@
-# Python-Code-for-Remotely-Sensed-Crop-Coefficient-Modeling for Actual Daily Evapotranspiration
+# Python Code for Remotely-Sensed Crop Coefficient-Modeling to Map Actual Daily Evapotranspiration in Cropland Fields.
 
 Support material based on Python coding to estimate actual daily maize evapotranspiration (ETa) using reflectance-based crop coefficient models.
+
+# Author: Edson Costa-Filho
+# Civil and Environmental Engineering Department
+# Colorado State University, Fort Collins, CO
 
 # REFERENCES:
 
