@@ -38,7 +38,7 @@ The Alfalfa-based reference ET has to be calculated or obtained before running t
 
 The other input data are the red (RED_RFL) and near-infrared (NIR_RFL) surface reflectance imagery from a given remote sensing platform (e.g., satellite, or unmanned aerial vehicle). The RED_RFL and NIR_RFL surface reflectance imagery has to be individual .tif files.
 
-The code is designed to provide the following maps:
+The code is designed to provide the following exported maps as .tiff files:
 
       Leaf area index (LAI), NDVI, SAVI, fc, ETa_ NDVI (mm/d), ETa_SAVI (mm/d), and ETa_fc (mm/d).
       
