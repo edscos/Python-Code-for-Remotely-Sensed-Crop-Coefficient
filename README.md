@@ -1,4 +1,4 @@
-# Python Code for Remotely-Sensed Crop Coefficient-Modeling to Map Actual Daily Evapotranspiration in Cropland Fields.
+# Python Code for Remotely-Sensed Crop Coefficient Modeling to Map Actual Daily Evapotranspiration in Cropland Fields.
 
 Support material based on Python coding to estimate actual daily maize evapotranspiration (ETa) using reflectance-based crop coefficient models.
 
@@ -42,7 +42,8 @@ The code is designed to provide the following exported maps as .tiff files:
 
       Leaf area index (LAI), NDVI, SAVI, fc, ETa_ NDVI (mm/d), ETa_SAVI (mm/d), and ETa_fc (mm/d).
       
-# NOTE: Make sure to add the file directory in which the RED_RFL and NIR_RFL imagery is stored.
+# NOTE 1: Make sure to add the file directory in which the RED_RFL and NIR_RFL imagery is stored.
+# NOTE 2: Make sure to change the file directory in which the spreadsheet input data file is stored.
 
 
       
